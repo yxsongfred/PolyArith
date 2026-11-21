@@ -13,3 +13,4 @@ Song Y, Wang B, Chen C. Learning to compute products of polynomials Transformers
 - Paper (author version): [paper.pdf](https://github.com/yxsongfred/PolyArith/blob/main/paper.pdf)
 
 Chen C, Song Y, Yang W. A method for intersection analysis in computer-aided design based on Transformer and characteristic set: CN122113189A [P]. 2026-05-29.
+- Detailed information (in Chinese): [website](http://epub.cnipa.gov.cn/patent/CN122113189A)
